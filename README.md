@@ -7,7 +7,9 @@ This project was created on 07/06/2021
 Explore US bikshare data
 
 ### Description
-Describe what your project is about and what it does
+This is an interactive project which provides bikeshare data for a particular
+city filtered by a particular month and a day.
+
 
 ### Files used
 Include the files used
